@@ -1,4 +1,4 @@
-let url = "https://meizano.github.io/Tutorial-Web/asset/Indonesia-Raya.mp3";
+let url = "https://hasheemi.github.io/upacara-bendera/Indonesia-Raya.mp3";
 let audio = new Audio(url);
 let isplaying = false;
 let muje = document.getElementById("muje");
